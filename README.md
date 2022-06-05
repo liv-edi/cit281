@@ -1,6 +1,6 @@
 # Welcome to Olivia's cit281 GitHub Pages
 
-![liv]()
+![liv](https://github.com/liv-edi/cit281/issues/1#issue-1260942824)
 
 ## Labs
 
