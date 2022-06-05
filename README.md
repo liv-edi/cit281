@@ -25,19 +25,19 @@
 
 ## Projects
 
-[Project 1](https://liv-edi.github.io/cit281/):
+[Project 1](https://liv-edi.github.io/cit281/Project1):
 
-[Project 2](https://liv-edi.github.io/cit281/):
+[Project 2](https://liv-edi.github.io/cit281/Project2):
 
-[Project 3](https://liv-edi.github.io/cit281/):
+[Project 3](https://liv-edi.github.io/cit281/Project3):
 
-[Project 4](https://liv-edi.github.io/cit281/):
+[Project 4](https://liv-edi.github.io/cit281/Project4):
 
-[Project 5](https://liv-edi.github.io/cit281/):
+[Project 5](https://liv-edi.github.io/cit281/Project5):
 
-[Project 6](https://liv-edi.github.io/cit281/):
+[Project 6](https://liv-edi.github.io/cit281/Project6):
 
-[Project 7](https://liv-edi.github.io/cit281/):
+[Project 7](https://liv-edi.github.io/cit281/Project7):
 
 
 
