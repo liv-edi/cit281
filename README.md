@@ -4,23 +4,23 @@
 
 ## Labs
 
-[Lab 1](https://liv-edi.github.io/lab1/): In this lab we installed and set up our computers with software tools need for the class and practiced using the software. The software included VSCode and extensions, Node.js, git, and Postman. We also practiced using terminal commands and keyboard shortcuts. We also created our first Node.js server-side Javascript file.
+- [Lab 1](https://liv-edi.github.io/lab1/): In this lab we installed and set up our computers with software tools need for the class and practiced using the software. The software included VSCode and extensions, Node.js, git, and Postman. We also practiced using terminal commands and keyboard shortcuts. We also created our first Node.js server-side Javascript file.
 
-[Lab 2](https://liv-edi.github.io/lab2/): In this lab we set up git user credentials, created a new git repo, created a JS file and added it to git, created a .gitignore file, used diff to see changes, used wildacrds, cloned cloud repos locally, and used branches and repo files.
+- [Lab 2](https://liv-edi.github.io/lab2/): In this lab we set up git user credentials, created a new git repo, created a JS file and added it to git, created a .gitignore file, used diff to see changes, used wildacrds, cloned cloud repos locally, and used branches and repo files.
 
-[Lab 3](https://liv-edi.github.io/lab3/): In this lab we used a car object provided to do the rest of the lab. We created vin and year variables using object deconstructing assigned to the vin and year values from the car object. We created an arroe function expression getCarMakeModelImplicit, getCarMakeModelExplicit, getCarMakeModelDestructure that returns the same formatted car output as getCarMakeModel. We created a for..in loop to list all the properties of an object. We created a for..of loop to list all values of an array. we used module.exports.
+- [Lab 3](https://liv-edi.github.io/lab3/): In this lab we used a car object provided to do the rest of the lab. We created vin and year variables using object deconstructing assigned to the vin and year values from the car object. We created an arroe function expression getCarMakeModelImplicit, getCarMakeModelExplicit, getCarMakeModelDestructure that returns the same formatted car output as getCarMakeModel. We created a for..in loop to list all the properties of an object. We created a for..of loop to list all values of an array. we used module.exports.
 
-[Lab 4](https://liv-edi.github.io/lab4/): In this lab we created a Fastify Node.js web server, initialized a folder as a Node.js project folder using npm, added Fastify using npm, tested our code using VSCode, added a git repo excluding node_modules, made commits using git, fixed MIME error, texted and commited it, and added a route with query parameters, tested and commited.
+- [Lab 4](https://liv-edi.github.io/lab4/): In this lab we created a Fastify Node.js web server, initialized a folder as a Node.js project folder using npm, added Fastify using npm, tested our code using VSCode, added a git repo excluding node_modules, made commits using git, fixed MIME error, texted and commited it, and added a route with query parameters, tested and commited.
 
-[Lab 5](https://liv-edi.github.io/lab5/): In this lab we downloaded and installed Postmen, created a CIT281 collection of folders, creasted a Node.js and Fastify server application using GET that responded with JSON, created an array of students, used portman to test GET routes, added POST handling server apllication and respond with JSON, and used postman and POST request.
+- [Lab 5](https://liv-edi.github.io/lab5/): In this lab we downloaded and installed Postmen, created a CIT281 collection of folders, creasted a Node.js and Fastify server application using GET that responded with JSON, created an array of students, used portman to test GET routes, added POST handling server apllication and respond with JSON, and used postman and POST request.
 
-[Lab 6](https://liv-edi.github.io/lab6/): In this lab we joined GitHub and worked through the Introduction to GitHub course, created a lab file, created and tested a Book class, created and tested a Library class, added books to the librarym, added ISBN, and a delete book method.
+- [Lab 6](https://liv-edi.github.io/lab6/): In this lab we joined GitHub and worked through the Introduction to GitHub course, created a lab file, created and tested a Book class, created and tested a Library class, added books to the librarym, added ISBN, and a delete book method.
 
-[Lab 7](https://liv-edi.github.io/lab7/): In this lab we created our own GitHub organization for the CIT Minor, cerated our first GitHub repositories, cloned the repo to our local systems, created lab javascript file and initilaized folder as a Node.js folder, updated and commited lab JS file to practice error handling, and pushed our changes to GitHub.
+- [Lab 7](https://liv-edi.github.io/lab7/): In this lab we created our own GitHub organization for the CIT Minor, cerated our first GitHub repositories, cloned the repo to our local systems, created lab javascript file and initilaized folder as a Node.js folder, updated and commited lab JS file to practice error handling, and pushed our changes to GitHub.
 
-[Lab 8](https://liv-edi.github.io/lab8/): In this lab we cerated a lab file and initialized it as a Node.js folder, installed the node-fetch package, added fastify starter code, added fastify and node-fetch require statements, and fetch JSONPlaceholder data.
+- [Lab 8](https://liv-edi.github.io/lab8/): In this lab we cerated a lab file and initialized it as a Node.js folder, installed the node-fetch package, added fastify starter code, added fastify and node-fetch require statements, and fetch JSONPlaceholder data.
 
-[Lab 9](https://liv-edi.github.io/lab9/): In this lab we worked throught the GitHub Learning Lab 'Create a release based workflow' course.
+- [Lab 9](https://liv-edi.github.io/lab9/): In this lab we worked throught the GitHub Learning Lab 'Create a release based workflow' course.
 
 ## Projects
 
