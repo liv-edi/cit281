@@ -1,6 +1,6 @@
 # Welcome to Olivia's cit281 GitHub Pages
 
-![liv](images.githubusercontent.com/105889862/172032678-8457d1b3-b881-4496-9195-b589257a7636.jpeg))
+![liv](images.githubusercontent.com/105889862/172032678-8457d1b3-b881-4496-9195-b589257a7636.jpeg)
 
 ## Labs
 
