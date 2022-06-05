@@ -39,7 +39,3 @@
 [Project 6](https://liv-edi.github.io/Project6/):
 
 [Project 7](https://liv-edi.github.io/Project7/):
-
-
-
-
