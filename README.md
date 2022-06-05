@@ -1,6 +1,8 @@
 # Welcome to Olivia's cit281 GitHub Pages
 
-![4665E1C8-600E-4379-9D52-21D1A29F3796](https://user-images.githubusercontent.com/105889862/172033703-34d9bd02-ca6f-4b99-9952-e93f9ac57428.jpeg)
+600E-4379-9D52-21D1A29F3796](https://user-images.githubusercontent.com/105889862/172033703-34d9bd02-ca6f-4b99-9952-e93f9ac57428.jpeg)
+
+![4665E1C8-<img width="615" alt="Screen Shot 2022-06-04 at 11 33 33 PM" src="https://user-images.githubusercontent.com/105889862/172038564-cca9e625-9ab3-4a09-9414-01b995b4172f.png">
 
 ## Labs
 
