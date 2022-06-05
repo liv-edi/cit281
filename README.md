@@ -22,8 +22,6 @@
 
 [Lab 9](https://liv-edi.github.io/lab9/): In this lab we worked throught the GitHub Learning Lab 'Create a release based workflow' course.
 
-[Lab 10](https://liv-edi.github.io/lab10/):
-
 ## Projects
 
 - [Project 1](https://liv-edi.github.io/Project1/): For this project we used the command line interface to create a number of folders that were listed in a tree like structure. We practiced using the ping command and the break keyboard sequence. We created and executed the JS files using Node.js and VSCode terminal run and debug.
